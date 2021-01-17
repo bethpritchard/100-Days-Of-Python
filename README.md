@@ -1,7 +1,7 @@
 # 100-Days-Of-Python
 
 ## What is 100 Days of Code?
-It is what it says on the tin - 100 days of code! The project was founded by (Alex Kallaway)[https://twitter.com/ka11away]
+It is what it says on the tin - 100 days of code! The project was founded by [Alex Kallawa](https://twitter.com/ka11away)
 and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you decide to take part!
 
 
