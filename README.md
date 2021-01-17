@@ -1,4 +1,4 @@
-# 100-Days-Of-Python
+# 100 Days of Code
 
 ## What is 100 Days of Code?
 It is what it says on the tin - 100 days of code! The project was founded by [Alex Kallawa](https://twitter.com/ka11away)
