@@ -10,7 +10,7 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 2. Work on real projects, not just tutorials.
 
 ## Log 
-[Days 1-10](log/days1-10) | [Days 11-20](log/days11-20)
+[Days 1-10](log/days1-10.md) | [Days 11-20](log/days11-20.md)
 
 ## Topics and technologies covered
 * Basics including variable types, flow control
@@ -20,7 +20,7 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 
 
 ## Best of: 
-[Snake game](https://github.com/bethpritchard/100-Days-Of-Python/blob/main/log/days11-20.md)
+[Snake game](https://github.com/bethpritchard/100-Days-Of-Code/blob/main/log/days11-20.md)
 
 ## Why 100 Days of Code?
 
