@@ -20,9 +20,9 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 
 
 ## Best of: 
-[Snake game](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day20/snake_game_main.py)
-[Pong](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day22/pong_main.py)
-[Frogger](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day23/frogger_main.py)
+* [Snake](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day20/snake_game_main.py)
+* [Pong](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day22/pong_main.py)
+* [Frogger](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day23/frogger_main.py)
 
 ## Why 100 Days of Code?
 
