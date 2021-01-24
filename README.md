@@ -10,19 +10,21 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 2. Work on real projects, not just tutorials.
 
 ## Log 
-[Days 1-10](log/days1-10.md) | [Days 11-20](log/days11-20.md)
+[Days 1-10](log/days1-10.md) | [Days 11-20](log/days11-20.md) | [Days 21-30](log/days21-30.md)
 
 ## Topics and technologies covered
 * Basics including variable types, flow control
 * Classes, class inhertiance
 * Modules
 * Turtle
-
+* List and dictionary comprehension
+* 
 
 ## Best of: 
 * [Snake](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day20/snake_game_main.py)
 * [Pong](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day22/pong_main.py)
 * [Frogger](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day23/frogger_main.py)
+* [Guess the States game](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day25/US_States_Game/us_states_main.py)
 
 ## Why 100 Days of Code?
 
