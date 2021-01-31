@@ -25,7 +25,11 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 * [Pong](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day22/pong_main.py)
 * [Frogger](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day23/frogger_main.py)
 * [Guess the States game](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day25/US_States_Game/us_states_main.py)
-
+* [Day 26 - phonetic alphabet converter](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day26/NATO_alphabet/NATO_alph_main.py)
+* [Day 27 - miles to km converter](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day27/distance_converter.py)
+* [Day 28 - Pomodoro timer](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day28)
+* [Day 29 - Password manager](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day29)
+* [Day 31 - Flash card app](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day31)
 ## Why 100 Days of Code?
 
 As a final year maths student I don't do a massive amount of programming in my course, and when I do use in R is designed just to get the results, rather than write good, clean code. 
