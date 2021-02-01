@@ -10,7 +10,7 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 2. Work on real projects, not just tutorials.
 
 ## Log 
-[Days 1-10](log/days1-10.md) | [Days 11-20](log/days11-20.md) | [Days 21-30](log/days21-30.md)
+[Days 1-10](log/days1-10.md) | [Days 11-20](log/days11-20.md) | [Days 21-30](log/days21-30.md) | [Days 31-40](log/days31-40.md)
 
 ## Topics and technologies covered
 * Basics including variable types, flow control
@@ -32,6 +32,9 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 * [Pomodoro timer](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day28)
 * [Password manager](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day29)
 * [Flash card app](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day31)
+* [100 days of code log manager](log_manager.py)
+
+
 ## Why 100 Days of Code?
 
 As a final year maths student I don't do a massive amount of programming in my course, and when I do use in R is designed just to get the results, rather than write good, clean code. 
