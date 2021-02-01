@@ -1,3 +1,7 @@
+"""
+Produces 10 day log for 100DaysOfCode
+"""
+
 from datetime import date, timedelta
 import os,sys
 import os.path
