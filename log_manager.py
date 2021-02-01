@@ -19,14 +19,17 @@ else:
         for i in range(10):
             d = date.today() + timedelta(days=i)
             d2 = d.strftime("%d %B %Y")
-            new_day = f"""### Day {START_DAY + i}: {d2}
-    **Today's progress:**
+            new_day = f"""
+### Day {START_DAY + i}: {d2}
+**Today's progress:**
     
-    **Today I've learned about:**
+**Today I've learned about:**
     
-    **Thoughts:**
+**Thoughts:**
     
-    **Link to work:**
+**Link to work:**
+
+* []()
     \n
     """
             new_log.write(new_day)
