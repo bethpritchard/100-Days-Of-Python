@@ -29,7 +29,7 @@ else:
     
 **Link to work:**
 
-* []()
+* [](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/)
     \n
     """
             new_log.write(new_day)
