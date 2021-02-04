@@ -14,12 +14,12 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 
 ## Topics and technologies covered
 * Basics including variable types, flow control
-* Classes, class inhertiance
-* Modules: turtle, TKinter, pandas
-* Turtle
+* Classes, class inheritance
+* Modules: turtle, TKinter, pandas, json, smtplib, 
 * List and dictionary comprehension
 * Reading and writing to files
 * Error handling
+* APIs
 
 
 ## Best of: 
@@ -33,14 +33,15 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 * [Password manager](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day29)
 * [Flash card app](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day31)
 * [100 days of code log manager](log_manager.py)
+* [Quiz]((https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day34))
 
 
-## Why 100 Days of Code?
+[comment]: <> (## Why 100 Days of Code?)
 
-As a final year maths student I don't do a massive amount of programming in my course, and when I do use in R is designed just to get the results, rather than write good, clean code. 
+[comment]: <> (As a final year maths student I don't do a massive amount of programming in my course, and when I do use in R is designed just to get the results, rather than write good, clean code. )
 
-I want to become a software developer after university, and so I am learning Python as my first proper language. 
+[comment]: <> (I want to become a software developer after university, and so I am learning Python as my first proper language. )
 
-I did the Code First: Girls Intro. to Python course in September 2020 which kickstarted my learning. 
+[comment]: <> (I did the Code First: Girls Intro. to Python course in September 2020 which kickstarted my learning. )
 
 
