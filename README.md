@@ -10,16 +10,18 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 2. Work on real projects, not just tutorials.
 
 ## Log 
-[Days 1-10](log/days1-10.md) | [Days 11-20](log/days11-20.md) | [Days 21-30](log/days21-30.md) | [Days 31-40](log/days31-40.md)
+[Days 1-10](log/days1-10.md) | [Days 11-20](log/days11-20.md) | [Days 21-30](log/days21-30.md) | [Days 31-40](log/days31-40.md) | [Days 41-50](log/days41-50.md)| [Days 51-60](log/days51-60.md) |[Days 61-70](log/days61-70.md) 
 
 ## Topics and technologies covered
 * Basics including variable types, flow control
 * Classes, class inheritance
-* Modules: turtle, TKinter, pandas, json, smtplib, 
+* Modules: turtle, TKinter, pandas, json, smtplib, Selenium, BeautifulSoup
 * List and dictionary comprehension
 * Reading and writing to files
 * Error handling
 * APIs
+* Web scraping
+* Web driver (Selenium)
 
 
 ## Best of: 
@@ -34,6 +36,8 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 * [Flash card app](https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day31)
 * [100 days of code log manager](log_manager.py)
 * [Quiz]((https://github.com/bethpritchard/100DaysOfCodeBootcamp/blob/master/Day34))
+* [Damnation playlist generator](https://github.com/bethpritchard/Damnation-Playlist)
+* 
 
 
 [comment]: <> (## Why 100 Days of Code?)
