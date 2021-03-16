@@ -7,7 +7,7 @@ import os,sys
 import os.path
 from os import path
 
-START_DAY = 61
+START_DAY = 71
 end_day = START_DAY + 10
 
 
