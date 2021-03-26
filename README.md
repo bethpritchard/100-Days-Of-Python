@@ -15,13 +15,15 @@ and you can fork his [repo](https://github.com/kallaway/100-days-of-code) if you
 ## Topics and technologies covered
 * Basics including variable types, flow control
 * Classes, class inheritance
-* Modules: turtle, TKinter, pandas, json, smtplib, Selenium, BeautifulSoup
+* Modules: turtle, TKinter, pandas, json, smtplib, Selenium, BeautifulSoup, Flask
 * List and dictionary comprehension
 * Reading and writing to files
 * Error handling
 * APIs
 * Web scraping
 * Web driver (Selenium)
+* HTML/CSS, Bootstrap
+*
 
 
 ## Best of: 
